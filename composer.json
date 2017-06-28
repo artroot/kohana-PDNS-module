@@ -1,5 +1,5 @@
 {
-  "name": "kohana-PDNS-module",
+  "name": "artroot/kohana-PDNS-module",
   "version": "1.0.0",
   "description": "Module helps to work with Power DNS (push/rm zones & records)",
   "main": "DNS.php",
