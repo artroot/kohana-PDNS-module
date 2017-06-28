@@ -43,6 +43,8 @@ Configure your Database.php, add new group for Power DNS
         'profiling'    => TRUE,
     ),
 ```
+Put the pdns folder into MODPATH
+
 ## Code
 ### Synchronize method
 ```php
