@@ -1,0 +1,24 @@
+{
+  "name": "kohana-pdns-module",
+  "version": "1.0.0",
+  "description": "Module helps to work with Power DNS (push/rm zones & records)",
+  "main": "DNS.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artroot/kohana-pdns-module.git"
+  },
+  "keywords": [
+    "pdns",
+    "powerdns",
+    "kohana"
+  ],
+  "author": "Artem Semenishch <a.semenishch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artroot/kohana-pdns-module/issues"
+  },
+  "homepage": "https://github.com/artroot/kohana-pdns-module#readme"
+}
